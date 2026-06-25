@@ -148,7 +148,7 @@ After changing the Python version, reboot the application.
 
 ## 📸 Example
 
-![Python Version Fix](assets/streamlit-python-version-fix.png)
+![Python Version Fix](https://github.com/Abhoy-Ghosh/RNN_project_deployment_imdb_sentiment_analysis/blob/main/%7B33973863-FA31-4AC1-B5C9-E686888DB1BE%7D.png)
 
 ---
 
